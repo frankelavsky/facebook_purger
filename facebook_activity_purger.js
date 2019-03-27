@@ -17,13 +17,12 @@
 // this takes a while (perhaps even hours, depending on your activity)
 
 // NOTE: some actions cannot be deleted, (if you were tagged)
-// you may wish to simply hide these by removing the commented lines (//)
-// you may also wish to unfriend people as well
+// you may wish to unfriend people as well (simply remove the "//" below)
 var purgeActions = {
   Unlike: true,
   "Remove Reaction": true,
+  // Unfriend: true, // (I didn't try this myself, but I believe this will work)
   Delete: true
-  // Unfriend: true // (not sure this works? I didn't try it)
 };
 
 var elements = document
