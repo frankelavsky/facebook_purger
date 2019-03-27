@@ -11,6 +11,8 @@
 // paste the below code into the console
 // I was able to run this code to remove activity until 2013
 // then I had to click each year before running this code again
+// also note: this code causes a large memory spike after a while
+// if you keep the console open, closing avoids a crash
 
 // Explanation:
 // the code below will programmatically remove your activity
