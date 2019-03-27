@@ -5,7 +5,8 @@
 // Instructions:
 // head over to facebook.com and click on your profile
 // click the button for your Activity Feed
-// once there, open the javascript console:
+// once there, open the javascript console
+// in chrome it is:
 // CTRL+SHIFT+I (windows) or CMD+OPT+J (mac)
 // paste the below code into the console
 // I was able to run this code to remove activity until 2013
